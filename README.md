@@ -24,6 +24,6 @@ It allows users to convert weight between different units like kilograms, grams,
 
 ## 📸 Screenshot  
 
-![Weight Converter Screenshot](./screenshot.png)  
+![Weight Converter Screenshot](WeightConverter/Screenshot.png)  
 
 ---
